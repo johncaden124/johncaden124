@@ -114,17 +114,7 @@ LLMs & AI Agents             ███░░░░░░░░░░░░░░
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/johncaden124/johncaden124/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 🎵 Spotify — Now Playing
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinan.me/redirect?uid=johncaden124">
-    <img src="https://spotify-github-profile.kittinan.me/api/view?uid=johncaden124&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=7df9ff&bar_color_cover=false" alt="Spotify Now Playing"/>
-  </a>
+  <img src="https://github.com/johncaden124/johncaden124/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -140,17 +130,3 @@ LLMs & AI Agents             ███░░░░░░░░░░░░░░
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn"/>
 </p>
-<!--
-**johncaden124/johncaden124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
